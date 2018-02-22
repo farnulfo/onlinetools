@@ -19,5 +19,14 @@ https://javap.yawk.at/
 
 ## Network
 
+### DNS
+
 https://www.whatsmydns.net/
 DNS Propagation Checker
+
+### SSL / TLS
+
+https://www.ssllabs.com/ssltest/viewMyClient.html Check client
+
+https://www.ssllabs.com/ssltest/ Check server
+
